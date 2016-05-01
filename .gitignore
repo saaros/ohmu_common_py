@@ -1,0 +1,4 @@
+*~
+/.coverage
+/ohmu_common_py/version.py
+__pycache__/
