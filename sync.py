@@ -13,6 +13,7 @@ import sys
 FILES = [
     "ohmu_common_py/logutil.py",
     "ohmu_common_py/pgutil.py",
+    "ohmu_common_py/statsd.py",
     "test/test_pgutil.py",
     "version.py",
 ]
